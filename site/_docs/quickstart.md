@@ -11,6 +11,7 @@ hash: 5647b91
 
 {% highlight bash %}
 ~ $ gem install jekyll
+~ $ gem install bundler
 ~ $ jekyll new myblog
 ~ $ cd myblog
 ~/myblog $ jekyll serve
